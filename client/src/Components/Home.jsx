@@ -23,7 +23,7 @@ function Home() {
     <div>
       <Navbar />
 
-<h>asdjsmdnmsdn</h>
+
       <div className="flex items-center my-20 justify-center  ">
         <div className="max-w-xs">
           <div className="bg-white shadow-xl rounded-lg py-3 w-96">
